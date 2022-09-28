@@ -7,7 +7,7 @@ A aplicação consiste em um usuário cadastrar informações de um determinado 
 
 ## Como executar o projeto
 
-Pré-requisitos: Python 3.10.5
+Pré-requisitos: Python 3.10.4
 
 #clonar repositório
 
