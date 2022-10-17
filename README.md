@@ -15,11 +15,11 @@ git clone https://github.com/Gustavo12386/Api_Lista_de_Livros.git
 
 #entrar na pasta do projeto 
 
-cd Api_Drf
+- cd Api_Drf
 
 #executar o projeto
 
-python manage.py runserver
+- python manage.py runserver
 
 # Imagens
 
