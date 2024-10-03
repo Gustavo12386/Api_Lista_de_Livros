@@ -27,7 +27,7 @@ git clone https://github.com/Gustavo12386/Api_Lista_de_Livros.git
 
 # Autor
 
-Gustavo Viana Calderaro Nogueira
+Gustavo Calderaro 
 
 https://www.linkedin.com/in/gustavo-viana-95206520a/
 
